@@ -5,7 +5,8 @@ Follow this instructions to run the project correctly:
 
 
 1- run the Virtual Serial Port (VSPE) program, and create COM1.
-you can find this program in the URL below
+
+you can find (VSPE) program in this URL
 http://www.eterlogic.com/Downloads.html
 
 
